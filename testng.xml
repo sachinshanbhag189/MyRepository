@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<suite name="SampleSuite">
+	<test name="DriverTests">
+		<classes>
+			<class name="com.southwest.scripts.BusinessActions" />
+		</classes>
+	</test>
+</suite>
